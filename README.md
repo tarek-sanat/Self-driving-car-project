@@ -29,12 +29,12 @@ correct steering wheel angle that the car should take
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="drawing" width="70"/>
   </div>
   <div class="column">
-    <img align="left" src="https://adventuresinmachinelearning.com/wp-content/uploads/2017/04/google-tensor-flow-logo-black-S-1024x768-1-930x620.jpg" alt="drawing" width="70"/>
+    <img align="left" src="https://adventuresinmachinelearning.com/wp-content/uploads/2017/04/google-tensor-flow-logo-black-S-1024x768-1-930x620.jpg" alt="drawing" width="100"/>
   </div>
   <div class="column">
-    <img align="left" src="https://editor.analyticsvidhya.com/uploads/800882.png" alt="drawing" width="50"/>
+    <img align="left" src="https://editor.analyticsvidhya.com/uploads/800882.png" alt="drawing" width="80"/>
   </div>
   <div class="column">
-    <img align="left" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" width="60"/>
+    <img align="left" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" width="80"/>
   </div>
 </div>
