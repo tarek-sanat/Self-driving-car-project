@@ -5,17 +5,21 @@
 
 ## Demo
 
-
-
+https://user-images.githubusercontent.com/67877258/158003851-0dde49ed-b49f-4bb0-a8b6-a3d7e2dce0f9.mp4
 
 ## Description
 
-This project is a twitter utility tool. It allows users to download a video from twitter by providing the URL of that post.
-It also allows users to find the name of a song present in a video by connecting to the audd.io API.
+This project uses the Udacity Self-Driving-Car simulator to train a neural network build using a model made by NVIDIA. The model takes in images from the car and predicts the correct steering wheel angle that the car should take. 
 
-* The backend is connected to the twitter API to get information about the video. If found, that video is send to the audd.io API, which finds the name of the song and returns information about it.
 
-* It is also connected to the Youtube API which will give a YouTube link of the song for the users to be able to view it.
+* Collected images dataset from the simulator labeled with the current speed of the car that will
+be used to train the network.
+
+* Applied augmentation and preprocessing techniques to the dataset using a Computer Vision
+library to clean the dataset.
+
+* Trained a Convolutional Neural Network on the previous dataset using Tensorflow to predict the
+correct steering wheel angle that the car should take
 
 ## Technologies Used
-* This project was built using React (JavaScript) for the front-end and NodeJS for the backend. It is hosted on AWS S3 for the front-end and on AWS EC2 for the backend.
+* This project was built using Python. The tensorflow library was used to train the neural network and the OpenCV library for augmenting the images. Flask was used for the Simulator to communicate with the trained model.
