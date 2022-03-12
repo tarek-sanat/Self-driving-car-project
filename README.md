@@ -35,6 +35,6 @@ correct steering wheel angle that the car should take
     <img align="left" src="https://editor.analyticsvidhya.com/uploads/800882.png" alt="drawing" width="80"/>
   </div>
   <div class="column">
-    <img align="left" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" width="80"/>
+    <img align="left" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" width="120"/>
   </div>
 </div>
