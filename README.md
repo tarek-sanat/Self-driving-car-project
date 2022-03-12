@@ -1,6 +1,6 @@
 # Self driving car project
  self-driving-car Using Udacity's open source Self Driving Car simulation. 
-# A Report of this project can be read here: [Report](https://drive.google.com/file/d/19vaZZIv00hmTZfFFHB_dLwIcJd8Jahnz/view?usp=sharing)
+### A Report of this project can be read here: [Report](https://drive.google.com/file/d/19vaZZIv00hmTZfFFHB_dLwIcJd8Jahnz/view?usp=sharing)
 
 
 ## Demo
